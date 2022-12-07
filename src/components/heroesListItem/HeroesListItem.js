@@ -1,4 +1,4 @@
-import {heroDeleted} from "../../actions/index";
+import {heroDeleted} from "../heroesList/heroesSlice";
 import { useDispatch } from "react-redux";
 
 
